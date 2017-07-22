@@ -1,0 +1,27 @@
+{
+  "name": "printii",
+  "version": "1.0.0",
+  "description": "Standard way of printing ascii art for your projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/printii.git"
+  },
+  "keywords": [
+    "ascii",
+    "art",
+    "print"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/printii/issues"
+  },
+  "homepage": "https://github.com/codealchemist/printii#readme",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
+}
